@@ -1,0 +1,29 @@
+{
+  "terrain_info": {
+    "grid_size": 100,
+    "wall_depth": 1.0,
+    "max_ridge_depth": 0.5,
+    "seed": "default",
+    "Lz": -20.0,
+    "Ly": 10.0,
+    "generate_terrain": true,
+    "terrain_type": "rock"
+  },
+  "target_points": [
+    [
+      0.07305923569710383,
+      2.51,
+      -5.31
+    ],
+    [
+      0.010021204101700952,
+      7.5,
+      -15.0
+    ],
+    [
+      -0.0026981934634943278,
+      6.51,
+      -15.51
+    ]
+  ]
+}
